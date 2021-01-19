@@ -1,0 +1,2 @@
+#!/bin/bash
+cp ~/wallpapers/today.jpg ~/wallpapers/$(date +%Y%m%d).jpg

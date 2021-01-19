@@ -1,0 +1,4 @@
+#!/bin/bash
+
+wget https://source.unsplash.com/1920x1080/?costarica,nature -O ~/wallpapers/today.jpg
+feh --bg-fill ~/wallpapers/today.jpg

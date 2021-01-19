@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#Get the project path where it has been clone
+
+cp /etc/i3/config ../
+cp ~/.xinit ../
+cp ~/.Xdefaults ../
+cp ~/.bash_profile ../
+
