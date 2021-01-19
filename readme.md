@@ -8,3 +8,8 @@ A place to keep and persist differen i3 configuration files for personal use. Pr
 
 ### Folder structure
 | -
+
+
+### Keyboard layout change
+https://docs.slackware.com/howtos:window_managers:keyboard_layout_in_i3
+https://unix.stackexchange.com/a/45499
